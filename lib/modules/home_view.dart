@@ -3,7 +3,10 @@ import 'package:mbank/modules/widgets/custom_button.dart';
 
 class HomeView extends StatelessWidget {
   const HomeView({super.key});
+final tst = 10;
+  const pi = 3.24;
 
+  
   @override
   Widget build(BuildContext context) {
     return Scaffold(
